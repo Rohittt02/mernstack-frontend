@@ -46,7 +46,7 @@ const Navbar = () => {
     setCategory(category); // Update the context
   };
 
-  connsole.log("Hello");
+ console.log("hello rohit !")
 
   return (
     <>
